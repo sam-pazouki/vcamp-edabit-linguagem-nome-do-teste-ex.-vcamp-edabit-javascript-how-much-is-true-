@@ -2,12 +2,10 @@
 Test
 
 Nome Completo: Sam Pazouki Varooneh
-
 Linkedin: https://www.linkedin.com/in/sam-pazouki-varooneh-44a432195
 
-![Screenshot (221)](https://user-images.githubusercontent.com/68926038/161154158-d4bd68ac-2645-435c-a9ab-72a90734493a.png)
-Link do desafio: https://edabit.com/challenge/qrDWy9xS8BrfhLS6o
-
-
+![Screenshot (223)](https://user-images.githubusercontent.com/68926038/161194456-b4373462-69ca-4641-9bd0-2a1e44f6777a.png)
+Link do desafio: https://edabit.com/challenge/eCmEgrKNtnfhpssQp
 
 colaboradores: @brunosfreitas e @andrelom
+[README.md](https://github.com/sam-pazouki/vcamp-edabit-linguagem-nome-do-teste-ex.-vcamp-edabit-javascript-how-much-is-true-/files/8394804/README.md)
